@@ -33,4 +33,4 @@ THEN the saved events persist
 ```
 
 ![Screen Shot 2023-12-22 at 12 25 41 AM (2)](https://github.com/jteleha/work-day-scheduler/assets/149969076/eb19fc41-b249-4feb-8d5e-1ec75ed69323)
-Github URL: https://github.com/jteleha/work-day-scheduler/tree/main
+Deployed URL: https://jteleha.github.io/work-day-scheduler/
